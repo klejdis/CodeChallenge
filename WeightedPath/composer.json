@@ -1,0 +1,5 @@
+{
+    "require": {
+        "fisharebest/algorithm": "^1.5"
+    }
+}
